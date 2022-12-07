@@ -55267,7 +55267,7 @@ K:function(a,b){var s=null,r=t.fQ
 r=T.ql(new T.cX(C.nw,T.mI(H.b([new K.yz(U.n4("assets/pic.jpeg",s,s).c,100,s),T.dz(s,20,s),L.cA("Harlin Kaur",s,s,s,4),T.dz(s,20,s),L.cA("Computer Science Engineer | UI/UX Designer | Mobile App Developer ",K.aA(b).a5.Q,C.bu,s,2),T.dz(s,30,s),T.ql(R.a5S(!1,!0,L.cA("Checkout my Resume",A.eK(s,s,C.tE,s,s,s,s,s,"OpenSans",s,s,12,s,s,s,s,!0,s,s,s,s,s,s,s),C.bu,s,2),s,!0,s,s,s,s,s,s,s,s,s,new K.M1(),s),s,s),T.dz(s,30,s),T.nU(H.b([N.a6W(T.dz(U.n4("assets/github.png",s,s),20,20),L.cA("Github",s,s,s,s),new K.M2()),N.a6W(T.dz(U.n4("assets/instagram.png",s,s),20,20),L.cA("Instagram",s,s,s,s),new K.M3()),N.a6W(T.dz(U.n4("assets/linkedin.png",s,s),20,20),L.cA("Linkedin",s,s,s,s),new K.M4())],r),C.bH,C.iY,C.aC)],r),C.bH,C.ak,C.aC),s),s,s)
 return new E.DA(!0,r,s)}}
 K.M1.prototype={
-$0:function(){return T.Lw("https://Harlinkaur.github.io/docs/Resume(2).pdf")},
+$0:function(){return T.Lw("https://Harlinkaur.github.io/docs/resume.pdf")},
 $S:117}
 K.M2.prototype={
 $0:function(){return C.a2.ql(window,"https://github.com/Harlinkaur","Harlinkaur")},
